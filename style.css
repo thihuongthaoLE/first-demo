@@ -2,3 +2,7 @@ body{
     background-color: aliceblue;
     color: brown;
 }
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
